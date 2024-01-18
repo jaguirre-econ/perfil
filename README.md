@@ -9,7 +9,7 @@
 - ☎️ **Teléfono**: +5493513993271
 - 🔗 **LinkedIn**: [jaguirre-econ](https://www.linkedin.com/in/jaguirre-econ/)
 
-### 📄 [Link a CV](https://github.com/jaguirre-econ/perfil/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn.pdf)
+### 📄 [Link a CV](https://github.com/jaguirre-econ/perfil/blob/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn.pdf)
 
 # Proyectos de análisis y ciencia de datos
 
