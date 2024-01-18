@@ -35,7 +35,7 @@ Queries sobre el dataset referido a una compañía ficticia dedicada a la venta 
 
 **Proyecto de Deep Learning 'Diabetes':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Deep_Learning_Diabetes.ipynb)
 
-Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se trabaja con un dataset con 70.692 entradas y 21 variables correspondiente a los resultados de una encuesta telefónica hecha en Estados Unidos en la que se le pregunta a cientos de miles de personas sobre sus condiciones de salud, siendo la mitad de los encuestados no diabéticos (Diabetes_binary = 0), y la otra mitad diabéticos (Diabetes_binary = 1). Luego de explorar el dataset (EDA) se entrenan modelos de redes neuronales que puedan predecir correctamente si un individuo es o no diabético de acuerdo a sus otras característcas. 
+Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se trabaja con un dataset con 70.692 entradas y 21 variables correspondiente a los resultados de una encuesta telefónica hecha en Estados Unidos en la que se le pregunta a cientos de miles de personas sobre sus condiciones de salud, siendo la mitad de los encuestados no diabéticos (Diabetes_binary = 0), y la otra mitad diabéticos (Diabetes_binary = 1). Luego de explorar el dataset (EDA) se entrenan modelos de redes neuronales que puedan predecir correctamente si un individuo es o no diabético de acuerdo a sus otras características. 
 
 ![](images/graph_deep_learning.png)
 
