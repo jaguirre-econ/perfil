@@ -13,7 +13,7 @@
 
 # Proyectos de análisis y ciencia de datos
 
-A continuación se puede acceder a diversos trabajos y documentos de mi autoría en los que fueron empleadas diferentes herramientas (*Power BI, SQL, Python, R, Paquete Office y LaTeX*).
+A continuación se puede acceder a diversos trabajos y documentos de mi autoría en los que fueron empleadas diferentes herramientas (*Power BI, SQL, Python, R, Paquete Office y LaTeX* ).
 
 ## 📊 Power BI 
 
