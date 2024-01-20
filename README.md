@@ -25,6 +25,15 @@ Dashboard referido a una compañía ficticia dedicada a la venta de pizzas.
 
 ![](images/bi_report_2.png)
 
+**Proyecto 'Call Center':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Call%20Center%20Report.pbix)
+
+Dashboard referido a una compañía de call centers. 
+
+![](images/bi_report_3.png)
+
+![](images/bi_report_4.png)
+
+
 ## 💻 SQL
 
 **Proyecto 'Pizza Sales':** 🔗 [**Link**](https://popsql.com/queries/-No2jud0rfRSZx59qnY9/pizza-sales?access_token=acc344688452e7b505fcfa84a59185ef)
