@@ -40,7 +40,7 @@ Dashboard referido a una compañía de call centers.
 
 Queries sobre el dataset referido a una compañía ficticia dedicada a la venta de pizzas. 
 
-**Proyecto 'Call Center':** 🔗 [**Link**](https://popsql.com/queries/-NobXtad2CbNQI9Jftxr/call-centers)
+**Proyecto 'Call Center':** 🔗 [**Link**](https://popsql.com/queries/-NobXtad2CbNQI9Jftxr/call-centers?access_token=8c44159acf10f3fcb899148b90a341ce)
 
 Queries sobre el dataset referido a una compañía de Call Centers.
 
