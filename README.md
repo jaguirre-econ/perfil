@@ -81,6 +81,7 @@ Tablas y gráficos sobre la base de estadísticas comparativas entre países mie
 
 - **Informe sobre la situación del mercado laboral y su relación con el nivel educativo:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/2023-07%20DR%20-%20Mercado%20Laboral%20y%20Educaci%C3%B3n%20Superior.pdf)
 - **Presentación en PowerPoint sobre Sector de la Salud:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/IERAL%20-%20Salud%202021%20al%20I%2023.pdf)
+- **Presentación de Paper Académico para Congreso AAEP con Beamer:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/AAEP_57_Slides_Rezk.pdf)
 - **Presentación de Tesis de Grado con Beamer:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Presentaci%C3%B3n_Trabajo_Final.pdf)
 - **Documento en RMarkdown con sintaxis de LaTeX:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gu%C3%ADa%20de%20Ejercicios%20de%20Econometr%C3%ADa%20II%20en%20RMarkdown.pdf)
 
