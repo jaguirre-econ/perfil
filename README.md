@@ -67,7 +67,7 @@ A partir de una base de datos provista por el Ministerio de Trabajo con un lista
 
 **Estadísticas del Mercado Laboral con EPH:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/merc_lab.R)
 
-La Encuesta Permanente de Hogares (EPH) es una encuesta nacional de casi 100.000 individuos de perioricidad trimestral. Con este script se obtienen diferentes estadísticas sobre la situación del mercado laboral, como las tasas de desempleo y de ocupación. Se pueden utilizar diferentes criterios para filtrar los resultados, como la provincia de residencia, el nivel educativo, el género o la edad.
+La Encuesta Permanente de Hogares (EPH) es una encuesta nacional de casi 100.000 individuos de periodicidad trimestral. Con este script se obtienen diferentes estadísticas sobre la situación del mercado laboral, como las tasas de desempleo y de ocupación. Se pueden utilizar diferentes criterios para filtrar los resultados, como la provincia de residencia, el nivel educativo, el género o la edad.
 
 ## 🟩 Excel
 
