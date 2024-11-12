@@ -87,7 +87,7 @@ Tablas y gráficos sobre la base de estadísticas comparativas entre países mie
 
 ## 🎤 Notas periodísticas y entrevistas
 
-- **Entrevista televisiva en Canal C:** 🔗 [**Link**](https://www.youtube.com/watch%3Fv%3DjVsgBqtRw0Y)
+- **Entrevista televisiva en Canal C:** 🔗 [**Link**](https://www.youtube.com/watch?v=jVsgBqtRw0Y)
 - **Nota en Infobae:** [**Link**](https://www.infobae.com/economia/2023/07/24/los-trabajadores-en-negro-perdieron-41-puntos-de-poder-adquisitivo-en-los-ultimos-siete-anos/)
 - **Nota en Infobae:** [**Link**](https://www.infobae.com/economia/2023/10/01/empleo-salarios-educacion-por-que-para-reducir-la-pobreza-la-clave-es-capacitar-mas-no-trabajar-menos/)
 - **Nota en MDZ Online:** [**Link**](https://www.mdzol.com/dinero/2023/10/4/jornada-laboral-los-datos-de-una-discusion-fuera-de-tiempo-373258.html)
