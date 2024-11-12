@@ -1,6 +1,6 @@
 # Joaquín Aguirre
 
-**Licenciado en Economía** por la Universidad Nacional de Córdoba (UNC), Diplomado en Ciencia de Datos por la FAMAF de la UNC y estudiante de la Maestría en Econometría de la Universidad Torcuato Di Tella (UTDT), con experiencia en consultoría, investigación de mercado (Marketing Mix Modeling) e investigación académica.
+**Licenciado en Economía** por la Universidad Nacional de Córdoba (UNC), Diplomado en Ciencia de Datos por la FAMAF de la UNC y estudiante de la Maestría en Econometría de la Universidad Torcuato Di Tella (UTDT), con experiencia en consultoría, investigación de mercado, modelado de datos (Marketing Mix Modeling) e investigación académica.
 
 **Intereses:** estadística, análisis y ciencia de datos, econometría, economía, investigación.
 
@@ -84,6 +84,10 @@ Tablas y gráficos sobre la base de estadísticas comparativas entre países mie
 - **Presentación de Paper Académico para Congreso AAEP con Beamer:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/AAEP_57_Slides_Rezk.pdf)
 - **Presentación de Tesis de Grado con Beamer:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Presentaci%C3%B3n_Trabajo_Final.pdf)
 - **Documento en RMarkdown con sintaxis de LaTeX:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gu%C3%ADa%20de%20Ejercicios%20de%20Econometr%C3%ADa%20II%20en%20RMarkdown.pdf)
+
+## 🎤 Notas periodísticas y entrevistas
+
+- 
 
 
 
