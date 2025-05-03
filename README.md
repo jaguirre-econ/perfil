@@ -1,3 +1,5 @@
+![](images/reel.png)
+
 # Joaquín Aguirre
 
 **Licenciado en Economía** por la Universidad Nacional de Córdoba ([UNC](https://github.com/jaguirre-econ/perfil/blob/main/T%C3%ADtulo1.jpg)), Diplomado en Ciencia de Datos por la [FAMAF](https://github.com/jaguirre-econ/perfil/blob/main/Certificado%20Diplodatos.pdf) de la UNC y estudiante de la Maestría en Econometría de la Universidad Torcuato Di Tella (UTDT), con experiencia en consultoría, investigación de mercado, modelado de datos (Marketing Mix Modeling), marketing science e investigación académica.
